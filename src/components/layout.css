@@ -595,3 +595,62 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+body {
+background-image: url("../images/fundo2.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+ul li {
+display: flex;
+}
+
+.teste img {
+border-radius: 120px 85px 120px 85px;
+border: 50px solid rgba(0, 0, 0, 0.384);
+
+}
+
+#nav-name {
+font-family: fantasy;
+letter-spacing: 1px;
+color: rgb(93, 7, 114);
+padding: 10px;
+}
+
+#jumb{
+background-color: rgba(47, 241, 255, 0.315);
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+color: black;
+}
+
+.texto p{
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+font-size: 15px;
+letter-spacing: 1px;
+
+}
+
+.text-white {
+background-color: rgba(117, 117, 143, 0.342);
+}
+
+#botao{
+margin-top: -21px;
+}
+
+#texto1{
+font-family: monospace;
+text-align: center;
+letter-spacing: 1px;
+color:rgb(204, 204, 176);
+background-color: rgba(0, 0, 255, 0.39);
+
+}
+
+
+
